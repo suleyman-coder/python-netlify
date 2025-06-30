@@ -1,2 +1,7 @@
 Flask
 gunicorn
+Flask-SocketIO
+python-socketio
+Werkzeug
+apscheduler
+Jinja2
